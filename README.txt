@@ -1,6 +1,7 @@
 1. Record classes
 2. Sealed classes
-3. New switch
+3. Text blocks
+4. New switch
 
 
 
